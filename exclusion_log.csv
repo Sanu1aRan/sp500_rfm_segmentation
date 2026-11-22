@@ -1,0 +1,18 @@
+Ticker,exclusion_reason,first_date,last_date
+APP,Incomplete history: listed after study start,2021-04-15,2024-12-31
+COIN,Incomplete history: listed after study start,2021-04-14,2024-12-31
+CEG,Incomplete history: listed after study start,2022-01-19,2024-12-31
+EXE,Incomplete history: listed after study start,2021-02-10,2024-12-31
+FERG,Zero volume day,2021-01-04,2024-12-31
+GEHC,Incomplete history: listed after study start,2022-12-15,2024-12-31
+GEV,Incomplete history: listed after study start,2024-03-27,2024-12-31
+RDDT,Incomplete history: listed after study start,2024-03-21,2024-12-31
+HOOD,Incomplete history: listed after study start,2021-07-29,2024-12-31
+SW,Zero volume day,2021-01-04,2024-12-31
+SOLV,Incomplete history: listed after study start,2024-03-26,2024-12-31
+VLTO,Incomplete history: listed after study start,2023-10-04,2024-12-31
+FDXF,No price data for study period (download failed),,
+HONA,No price data for study period (download failed),,
+Q,No price data for study period (download failed),,
+SNDK,No price data for study period (download failed),,
+VYLR,No price data for study period (download failed),,
