@@ -1,0 +1,487 @@
+,A_ward,A_kmeans,B_ward,B_kmeans,Security,GICS Sector,B_ward_RF_only
+MMM,5,1,3,2,3M,Industrials,5
+AOS,5,1,5,5,A. O. Smith,Industrials,3
+ABT,2,3,3,5,Abbott Laboratories,Health Care,3
+ABBV,3,3,3,3,AbbVie,Health Care,5
+ACN,5,2,3,3,Accenture,Information Technology,3
+ADBE,4,5,3,3,Adobe Inc.,Information Technology,5
+AMD,4,5,3,3,Advanced Micro Devices,Information Technology,5
+AES,5,1,1,1,AES Corporation,Utilities,2
+AFL,3,2,5,5,Aflac,Financials,3
+A,5,1,5,5,Agilent Technologies,Health Care,3
+APD,5,3,1,4,Air Products,Materials,2
+ABNB,4,5,3,3,Airbnb,Consumer Discretionary,5
+AKAM,5,1,1,1,Akamai Technologies,Information Technology,2
+ALB,4,5,5,5,Albemarle Corporation,Materials,3
+ARE,5,1,5,5,Alexandria Real Estate Equities,Real Estate,3
+ALGN,4,5,5,2,Align Technology,Health Care,5
+ALLE,5,1,5,5,Allegion,Industrials,3
+LNT,2,3,1,1,Alliant Energy,Utilities,2
+ALL,3,3,1,1,Allstate,Financials,2
+GOOGL,1,2,3,3,Alphabet Inc. (Class A),Communication Services,4
+GOOG,1,2,3,3,Alphabet Inc. (Class C),Communication Services,4
+MO,2,3,3,5,Altria,Consumer Staples,3
+AMZN,4,5,3,3,Amazon,Consumer Discretionary,4
+AMCR,5,3,4,2,Amcor,Materials,4
+AEE,2,3,5,2,Ameren,Utilities,5
+AEP,2,3,5,2,American Electric Power,Utilities,5
+AXP,1,2,3,3,American Express,Financials,5
+AIG,3,2,5,5,American International Group,Financials,5
+AMT,5,1,3,5,American Tower,Real Estate,5
+AWK,5,1,5,5,American Water Works,Utilities,5
+AMP,1,2,5,5,Ameriprise Financial,Financials,3
+AME,5,2,5,5,Ametek,Industrials,5
+AMGN,2,3,3,3,Amgen,Health Care,5
+APH,1,2,1,1,Amphenol,Information Technology,2
+ADI,5,2,3,1,Analog Devices,Information Technology,2
+AON,3,3,3,5,Aon plc,Financials,5
+APA,3,2,5,5,APA Corporation,Energy,5
+APO,1,4,3,3,Apollo Global Management,Financials,5
+AAPL,1,2,3,3,Apple Inc.,Information Technology,3
+AMAT,4,5,3,3,Applied Materials,Information Technology,5
+APTV,5,1,5,5,Aptiv,Consumer Discretionary,3
+ACGL,3,2,5,2,Arch Capital Group,Financials,5
+ADM,2,3,5,5,Archer Daniels Midland,Consumer Staples,5
+ARES,1,4,5,2,Ares Management,Financials,5
+ANET,1,4,1,1,Arista Networks,Information Technology,2
+AJG,3,2,4,2,Arthur J. Gallagher & Co.,Financials,4
+AIZ,3,3,5,2,Assurant,Financials,5
+T,2,3,3,3,AT&T,Communication Services,5
+ATO,3,3,5,5,Atmos Energy,Utilities,3
+ADSK,4,5,3,5,Autodesk,Information Technology,5
+ADP,3,2,3,5,Automatic Data Processing,Industrials,3
+AZO,3,2,2,4,AutoZone,Consumer Discretionary,1
+AVY,5,1,5,2,Avery Dennison,Materials,5
+AXON,1,4,3,2,Axon Enterprise,Industrials,5
+BKR,3,2,5,5,Baker Hughes,Energy,3
+BALL,5,1,5,5,Ball Corporation,Materials,5
+BAC,5,2,3,3,Bank of America,Financials,3
+BAX,2,1,5,5,Baxter International,Health Care,5
+BDX,2,3,1,1,Becton Dickinson,Health Care,2
+BRK-B,3,3,3,3,Berkshire Hathaway,Financials,3
+BBY,5,1,1,1,Best Buy,Consumer Discretionary,2
+TECH,5,1,5,2,Bio-Techne,Health Care,5
+BIIB,2,3,5,5,Biogen,Health Care,3
+BLK,4,5,3,3,BlackRock,Financials,5
+BX,1,4,3,2,Blackstone Inc.,Financials,4
+XYZ,4,5,1,2,"Block, Inc.",Financials,4
+BE,4,5,4,2,Bloom Energy,Industrials,4
+BNY,3,2,5,5,BNY Mellon,Financials,3
+BA,5,1,3,3,Boeing,Industrials,4
+BKNG,1,2,3,3,Booking Holdings,Consumer Discretionary,5
+BSX,3,2,3,5,Boston Scientific,Health Care,3
+BMY,2,3,3,3,Bristol Myers Squibb,Health Care,5
+AVGO,1,4,3,3,Broadcom,Information Technology,4
+BR,5,2,5,5,Broadridge Financial Solutions,Industrials,3
+BRO,3,2,5,5,Brown & Brown,Financials,3
+BF-B,2,1,5,5,Brown–Forman,Consumer Staples,5
+BG,2,3,5,5,Bunge Global,Consumer Staples,5
+BXP,5,1,5,2,"BXP, Inc.",Real Estate,5
+CHRW,5,3,5,5,C.H. Robinson,Industrials,5
+CDNS,1,2,1,1,Cadence Design Systems,Information Technology,2
+CPT,5,3,5,5,Camden Property Trust,Real Estate,5
+COF,1,2,1,1,Capital One,Financials,2
+CAH,3,3,5,2,Cardinal Health,Health Care,5
+CCL,4,5,3,5,Carnival Corporation,Consumer Discretionary,3
+CARR,1,2,5,5,Carrier Global,Industrials,5
+CVNA,1,4,1,1,Carvana,Consumer Discretionary,2
+CASY,3,2,5,5,Casey's,Consumer Staples,5
+CAT,3,2,3,3,Caterpillar Inc.,Industrials,3
+CBOE,3,3,5,2,Cboe Global Markets,Financials,5
+CBRE,1,2,5,2,CBRE Group,Real Estate,5
+CDW,5,1,1,1,CDW Corporation,Information Technology,2
+COR,3,3,2,4,Cencora,Health Care,1
+CNC,2,3,4,2,Centene Corporation,Health Care,4
+CNP,3,3,5,5,CenterPoint Energy,Utilities,3
+CF,3,3,5,5,CF Industries,Materials,5
+CRL,4,1,5,5,Charles River Laboratories,Health Care,3
+SCHW,5,2,1,1,Charles Schwab Corporation,Financials,2
+CHTR,5,1,3,5,Charter Communications,Communication Services,5
+CVX,3,3,3,3,Chevron Corporation,Energy,3
+CMG,1,2,1,1,Chipotle Mexican Grill,Consumer Discretionary,2
+CB,3,3,2,4,Chubb Limited,Financials,1
+CHD,2,3,5,2,Church & Dwight,Consumer Staples,5
+CIEN,1,2,5,5,Ciena,Information Technology,5
+CI,2,3,4,2,Cigna,Health Care,4
+CINF,3,3,5,5,Cincinnati Financial,Financials,5
+CTAS,1,2,4,2,Cintas,Industrials,4
+CSCO,5,3,3,3,Cisco,Information Technology,5
+C,5,1,3,3,Citigroup,Financials,5
+CFG,5,2,5,2,Citizens Financial Group,Financials,5
+CLX,2,3,5,2,Clorox,Consumer Staples,5
+CME,2,3,3,5,CME Group,Financials,2
+CMS,2,3,5,5,CMS Energy,Utilities,5
+KO,2,3,3,3,Coca-Cola Company (The),Consumer Staples,5
+CTSH,5,1,5,5,Cognizant,Information Technology,5
+COHR,4,5,5,5,Coherent Corp.,Information Technology,5
+CL,2,3,3,5,Colgate-Palmolive,Consumer Staples,3
+CMCSA,2,1,3,3,Comcast,Communication Services,5
+FIX,1,4,1,1,Comfort Systems USA,Industrials,2
+COP,3,2,3,3,ConocoPhillips,Energy,5
+ED,2,3,5,2,Consolidated Edison,Utilities,5
+STZ,5,3,5,5,Constellation Brands,Consumer Staples,5
+COO,5,1,4,2,Cooper Companies (The),Health Care,4
+CPRT,1,2,4,2,Copart,Industrials,4
+GLW,5,2,5,5,Corning Inc.,Information Technology,5
+CPAY,5,1,5,5,Corpay,Financials,5
+CSGP,5,1,5,5,CoStar Group,Real Estate,5
+COST,3,2,3,3,Costco,Consumer Staples,3
+CRH,1,2,1,1,CRH plc,Materials,2
+CRWD,4,5,3,3,CrowdStrike,Information Technology,2
+CCI,5,1,5,2,Crown Castle,Real Estate,5
+CSX,5,1,1,1,CSX Corporation,Industrials,2
+CMI,5,2,5,2,Cummins,Industrials,5
+CVS,2,3,3,2,CVS Health,Health Care,4
+DHR,5,1,3,3,Danaher Corporation,Health Care,5
+DRI,3,2,5,2,Darden Restaurants,Consumer Discretionary,5
+DDOG,4,5,1,1,Datadog,Information Technology,2
+DVA,2,3,5,5,DaVita,Health Care,5
+DECK,1,2,5,2,Deckers Brands,Consumer Discretionary,5
+DE,5,2,3,1,Deere & Company,Industrials,2
+DELL,1,4,1,3,Dell Technologies,Information Technology,2
+DAL,1,2,3,5,Delta Air Lines,Industrials,3
+DVN,3,2,5,5,Devon Energy,Energy,5
+DXCM,5,1,5,5,Dexcom,Health Care,5
+FANG,1,2,3,5,Diamondback Energy,Energy,3
+DLR,5,2,4,2,Digital Realty,Real Estate,4
+DG,2,1,3,5,Dollar General,Consumer Staples,2
+DLTR,5,1,1,1,Dollar Tree,Consumer Staples,2
+D,2,3,1,1,Dominion Energy,Utilities,2
+DPZ,5,1,1,1,Domino's,Consumer Discretionary,2
+DASH,4,5,3,5,DoorDash,Consumer Discretionary,5
+DOV,5,2,5,5,Dover Corporation,Industrials,5
+DOW,5,1,5,2,Dow Inc.,Materials,5
+DHI,1,2,3,2,D. R. Horton,Consumer Discretionary,5
+DTE,2,3,5,2,DTE Energy,Utilities,5
+DUK,2,3,2,4,Duke Energy,Utilities,1
+DD,5,1,5,5,DuPont,Industrials,5
+ETN,1,2,3,3,Eaton Corporation,Industrials,5
+EBAY,5,1,5,5,eBay Inc.,Consumer Discretionary,3
+ECHO,5,2,5,2,EchoStar,Communication Services,4
+ECL,5,1,5,5,Ecolab,Materials,3
+EIX,5,3,5,5,Edison International,Utilities,3
+EW,5,1,3,5,Edwards Lifesciences,Health Care,3
+ELV,2,3,1,1,Elevance Health,Health Care,2
+EME,1,4,5,5,Emcor,Industrials,5
+EMR,5,2,5,5,Emerson Electric,Industrials,5
+ETR,3,3,1,1,Entergy,Utilities,2
+EOG,3,2,5,5,EOG Resources,Energy,5
+EQT,1,2,1,1,EQT Corporation,Energy,2
+EFX,4,5,4,2,Equifax,Industrials,2
+EQIX,5,2,3,2,Equinix,Real Estate,5
+ERIE,3,3,5,5,Erie Indemnity,Financials,5
+ESS,5,3,5,5,Essex Property Trust,Real Estate,3
+EL,5,1,1,1,Estée Lauder Companies (The),Consumer Staples,2
+EG,3,3,4,2,Everest Group,Financials,4
+EVRG,2,3,5,5,Evergy,Utilities,3
+P,1,4,4,2,Everpure,Information Technology,4
+ES,2,3,5,2,Eversource Energy,Utilities,5
+EXC,5,3,5,5,Exelon,Utilities,3
+EXPE,4,5,5,2,Expedia Group,Consumer Discretionary,5
+EXPD,5,1,5,5,Expeditors International,Industrials,5
+EXR,5,2,5,5,Extra Space Storage,Real Estate,3
+XOM,3,2,3,3,ExxonMobil,Energy,3
+FFIV,5,1,5,5,"F5, Inc.",Information Technology,5
+FDS,5,2,5,2,FactSet,Financials,5
+FICO,1,4,1,1,Fair Isaac,Information Technology,2
+FAST,5,2,5,5,Fastenal,Industrials,5
+FRT,5,2,5,5,Federal Realty Investment Trust,Real Estate,5
+FDX,5,1,3,5,FedEx,Industrials,5
+FIS,5,1,5,2,Fidelity National Information Services,Financials,5
+FITB,5,2,5,2,Fifth Third Bancorp,Financials,5
+FSLR,1,2,1,1,First Solar,Information Technology,2
+FE,2,3,5,5,FirstEnergy,Utilities,5
+FISV,3,2,3,5,Fiserv,Financials,3
+FLEX,1,2,4,2,Flex Ltd.,Information Technology,4
+F,4,5,1,1,Ford Motor Company,Consumer Discretionary,2
+FTNT,1,4,3,5,Fortinet,Information Technology,3
+FTV,5,1,5,5,Fortive,Industrials,3
+FOXA,3,3,4,2,Fox Corporation (Class A),Communication Services,4
+FOX,3,3,5,2,Fox Corporation (Class B),Communication Services,5
+BEN,5,1,5,2,Franklin Resources,Financials,5
+FCX,4,5,2,4,Freeport-McMoRan,Materials,1
+GRMN,3,2,5,5,Garmin,Consumer Discretionary,5
+IT,1,2,5,2,Gartner,Information Technology,5
+GE,3,2,1,3,GE Aerospace,Industrials,2
+GEN,5,3,5,5,Gen Digital,Information Technology,3
+GNRC,4,5,4,2,Generac,Industrials,4
+GD,3,3,3,5,General Dynamics,Industrials,3
+GIS,2,3,5,5,General Mills,Consumer Staples,3
+GM,4,5,1,1,General Motors,Consumer Discretionary,2
+GPC,5,3,4,2,Genuine Parts Company,Consumer Discretionary,4
+GILD,3,3,3,5,Gilead Sciences,Health Care,3
+GPN,5,1,1,1,Global Payments,Financials,2
+GL,5,3,5,5,Globe Life,Financials,5
+GDDY,1,2,1,1,GoDaddy,Information Technology,2
+GS,1,2,3,3,Goldman Sachs,Financials,5
+HAL,3,2,1,1,Halliburton,Energy,2
+HIG,3,2,4,2,Hartford (The),Financials,4
+HAS,5,1,5,5,Hasbro,Consumer Discretionary,3
+HCA,3,2,1,1,HCA Healthcare,Health Care,2
+DOC,5,1,4,2,Healthpeak Properties,Real Estate,4
+HSIC,5,1,1,1,Henry Schein,Health Care,2
+HSY,2,3,4,2,Hershey Company (The),Consumer Staples,4
+HPE,1,2,5,5,Hewlett Packard Enterprise,Information Technology,5
+HLT,3,2,3,5,Hilton Worldwide,Consumer Discretionary,3
+HD,5,2,3,3,Home Depot (The),Consumer Discretionary,3
+HON,5,1,3,2,Honeywell Technologies,Industrials,4
+HRL,2,3,2,4,Hormel Foods,Consumer Staples,1
+HST,5,2,5,5,Host Hotels & Resorts,Real Estate,5
+HWM,1,2,5,5,Howmet Aerospace,Industrials,5
+HPQ,5,2,1,1,HP Inc.,Information Technology,2
+HUBB,3,2,5,5,Hubbell Incorporated,Industrials,3
+HUM,2,3,3,3,Humana,Health Care,5
+HBAN,5,2,5,5,Huntington Bancshares,Financials,5
+HII,5,3,5,2,Huntington Ingalls Industries,Industrials,5
+IBM,3,3,3,3,IBM,Information Technology,5
+IEX,5,1,4,2,IDEX Corporation,Industrials,4
+IDXX,4,1,1,1,Idexx Laboratories,Health Care,2
+ITW,5,1,5,5,Illinois Tool Works,Industrials,3
+ILMN,5,1,5,2,"Illumina, Inc.",Health Care,5
+INCY,2,3,5,2,Incyte,Health Care,5
+IR,1,2,5,5,Ingersoll Rand,Industrials,3
+PODD,5,1,5,5,Insulet Corporation,Health Care,5
+INTC,5,1,3,3,Intel,Information Technology,5
+IBKR,3,2,5,2,Interactive Brokers,Financials,5
+ICE,5,1,3,5,Intercontinental Exchange,Financials,3
+IFF,5,1,5,2,International Flavors & Fragrances,Materials,5
+IP,5,3,1,1,International Paper,Materials,2
+INTU,4,5,1,1,Intuit,Information Technology,2
+ISRG,1,2,3,3,Intuitive Surgical,Health Care,3
+IVZ,4,5,5,5,Invesco,Financials,3
+INVH,5,1,5,2,Invitation Homes,Real Estate,5
+IQV,5,1,4,2,IQVIA,Health Care,4
+IRM,1,2,5,2,Iron Mountain,Real Estate,5
+JBHT,5,1,5,5,J.B. Hunt,Industrials,5
+JBL,1,2,5,5,Jabil,Information Technology,3
+JKHY,2,3,1,1,Jack Henry & Associates,Financials,2
+J,5,2,5,5,Jacobs Solutions,Industrials,5
+JNJ,2,3,3,3,Johnson & Johnson,Health Care,3
+JCI,5,2,1,1,Johnson Controls,Industrials,2
+JPM,3,2,3,3,JPMorgan Chase,Financials,5
+KDP,2,3,3,2,Keurig Dr Pepper,Consumer Staples,5
+KEY,5,1,5,5,KeyCorp,Financials,3
+KEYS,5,1,4,2,Keysight Technologies,Information Technology,4
+KMB,2,3,5,2,Kimberly-Clark,Consumer Staples,5
+KIM,3,2,5,5,Kimco Realty,Real Estate,3
+KMI,3,2,3,5,Kinder Morgan,Energy,3
+KKR,1,4,3,5,KKR & Co.,Financials,3
+KLAC,1,5,3,3,KLA Corporation,Information Technology,5
+KHC,2,3,1,1,Kraft Heinz,Consumer Staples,2
+KR,3,3,4,2,Kroger,Consumer Staples,4
+LHX,5,3,5,5,L3Harris,Industrials,5
+LH,5,3,4,2,Labcorp,Health Care,4
+LRCX,4,5,3,3,Lam Research,Information Technology,3
+LVS,5,1,5,5,Las Vegas Sands,Consumer Discretionary,3
+LDOS,5,3,4,2,Leidos,Industrials,4
+LEN,1,2,4,2,Lennar,Consumer Discretionary,4
+LII,1,2,4,2,Lennox International,Industrials,4
+LLY,1,2,3,3,Lilly (Eli),Health Care,5
+LIN,3,3,3,3,Linde plc,Materials,3
+LYV,1,2,1,1,Live Nation Entertainment,Communication Services,2
+LMT,2,3,3,3,Lockheed Martin,Industrials,5
+L,3,3,5,5,Loews Corporation,Financials,3
+LOW,5,2,3,5,Lowe's,Consumer Discretionary,3
+LULU,5,1,3,3,Lululemon Athletica,Consumer Discretionary,5
+LITE,4,5,1,1,Lumentum,Information Technology,2
+LYB,5,1,1,5,LyondellBasell,Materials,2
+MTB,3,2,5,2,M&T Bank,Financials,5
+MPC,3,2,3,5,Marathon Petroleum,Energy,3
+MAR,3,2,3,5,Marriott International,Consumer Discretionary,3
+MRSH,3,2,3,1,Marsh McLennan,Financials,2
+MLM,5,2,5,5,Martin Marietta Materials,Materials,5
+MRVL,1,4,3,3,Marvell Technology,Information Technology,4
+MAS,5,2,5,2,Masco,Industrials,5
+MA,5,2,3,3,Mastercard,Financials,3
+MKC,2,3,2,4,McCormick & Company,Consumer Staples,1
+MCD,5,3,3,3,McDonald's,Consumer Discretionary,4
+MCK,3,2,3,2,McKesson,Health Care,5
+MDT,2,1,2,4,Medtronic,Health Care,1
+MRK,2,3,3,3,Merck & Co.,Health Care,3
+META,1,2,3,3,Meta Platforms,Communication Services,5
+MET,3,2,5,2,MetLife,Financials,5
+MTD,5,1,5,2,Mettler Toledo,Health Care,5
+MGM,4,5,5,5,MGM Resorts,Consumer Discretionary,3
+MCHP,4,5,3,5,Microchip Technology,Information Technology,3
+MU,4,5,3,3,Micron Technology,Information Technology,5
+MSFT,1,2,3,3,Microsoft,Information Technology,3
+MAA,5,3,5,5,Mid-America Apartment Communities,Real Estate,3
+MRNA,5,1,4,2,Moderna,Health Care,4
+MDLZ,2,3,3,5,Mondelez International,Consumer Staples,3
+MPWR,4,5,3,2,Monolithic Power Systems,Information Technology,4
+MNST,2,3,5,5,Monster Beverage,Consumer Staples,3
+MCO,1,2,3,5,Moody's Corporation,Financials,3
+MS,1,2,3,3,Morgan Stanley,Financials,5
+MOS,5,1,1,1,Mosaic Company (The),Materials,2
+MSI,3,2,3,5,Motorola Solutions,Information Technology,3
+MSCI,4,5,1,1,MSCI,Financials,2
+NDAQ,3,2,5,5,"Nasdaq, Inc.",Financials,3
+NTAP,1,2,1,1,NetApp,Information Technology,2
+NFLX,1,5,1,1,Netflix,Communication Services,2
+NEM,2,3,3,5,Newmont,Materials,5
+NWSA,5,2,5,5,News Corp (Class A),Communication Services,3
+NWS,3,2,5,5,News Corp (Class B),Communication Services,5
+NEE,5,3,3,3,NextEra Energy,Utilities,5
+NKE,5,1,3,3,"Nike, Inc.",Consumer Discretionary,3
+NI,3,3,5,2,NiSource,Utilities,5
+NDSN,5,1,5,2,Nordson Corporation,Industrials,4
+NSC,5,1,5,2,Norfolk Southern,Industrials,5
+NTRS,5,1,5,5,Northern Trust,Financials,5
+NOC,2,3,1,1,Northrop Grumman,Industrials,2
+NCLH,4,5,5,5,Norwegian Cruise Line Holdings,Consumer Discretionary,5
+NRG,3,2,5,5,NRG Energy,Utilities,5
+NUE,1,2,5,5,Nucor,Materials,5
+NVDA,1,4,2,4,Nvidia,Information Technology,1
+NVR,3,2,5,5,"NVR, Inc.",Consumer Discretionary,3
+NXPI,4,5,3,5,NXP Semiconductors,Information Technology,3
+ORLY,3,2,3,5,O'Reilly Automotive,Consumer Discretionary,3
+OXY,3,2,3,3,Occidental Petroleum,Energy,5
+OKTA,4,5,4,2,"Okta, Inc.",Information Technology,4
+ODFL,1,2,5,5,Old Dominion,Industrials,5
+OMC,5,3,4,2,Omnicom Group,Communication Services,4
+ON,1,5,3,5,ON Semiconductor,Information Technology,5
+OKE,3,2,5,5,Oneok,Energy,3
+ORCL,1,2,3,3,Oracle Corporation,Information Technology,5
+OTIS,5,3,5,5,Otis Worldwide,Industrials,3
+PCAR,3,2,5,5,Paccar,Industrials,3
+PKG,3,3,5,5,Packaging Corporation of America,Materials,3
+PLTR,1,4,3,3,Palantir Technologies,Information Technology,4
+PANW,1,2,3,3,Palo Alto Networks,Information Technology,5
+PH,1,2,3,2,Parker Hannifin,Industrials,5
+PAYX,5,2,4,2,Paychex,Industrials,4
+PYPL,5,1,3,3,PayPal,Financials,3
+PNR,1,2,5,5,Pentair,Industrials,3
+PEP,2,3,3,3,PepsiCo,Consumer Staples,3
+PFE,2,3,3,3,Pfizer,Health Care,5
+PCG,3,3,4,2,PG&E Corporation,Utilities,5
+PM,3,3,3,3,Philip Morris International,Consumer Staples,5
+PSX,3,2,5,5,Phillips 66,Energy,3
+PNW,2,3,1,1,Pinnacle West Capital,Utilities,2
+PNC,5,2,3,5,PNC Financial Services,Financials,3
+PPG,5,1,1,5,PPG Industries,Materials,5
+PPL,2,3,5,5,PPL Corporation,Utilities,5
+PFG,5,2,5,5,Principal Financial Group,Financials,5
+PG,2,3,3,3,Procter & Gamble,Consumer Staples,3
+PGR,3,3,3,1,Progressive Corporation,Financials,2
+PLD,5,1,3,5,Prologis,Real Estate,3
+PRU,5,2,5,5,Prudential Financial,Financials,5
+PTC,5,2,5,2,PTC Inc.,Information Technology,5
+PEG,3,3,5,5,Public Service Enterprise Group,Utilities,5
+PSA,5,2,5,2,Public Storage,Real Estate,5
+PHM,1,2,4,2,PulteGroup,Consumer Discretionary,4
+QCOM,4,5,3,3,Qualcomm,Information Technology,5
+PWR,1,4,5,5,Quanta Services,Industrials,5
+DGX,2,3,1,1,Quest Diagnostics,Health Care,2
+RL,1,2,5,5,Ralph Lauren Corporation,Consumer Discretionary,5
+RJF,1,2,5,2,Raymond James Financial,Financials,5
+O,2,3,5,5,Realty Income,Real Estate,5
+REG,3,2,5,2,Regency Centers,Real Estate,5
+REGN,5,3,3,3,Regeneron Pharmaceuticals,Health Care,5
+RF,5,2,5,5,Regions Financial Corporation,Financials,3
+RSG,3,3,5,2,Republic Services,Industrials,5
+RMD,5,1,5,5,ResMed,Health Care,5
+RVTY,5,1,5,5,Revvity,Health Care,5
+ROK,5,1,5,2,Rockwell Automation,Industrials,5
+ROL,5,3,5,5,"Rollins, Inc.",Industrials,5
+ROP,5,1,5,5,Roper Technologies,Information Technology,3
+ROST,5,1,3,1,Ross Stores,Consumer Discretionary,2
+RCL,1,4,3,5,Royal Caribbean Group,Consumer Discretionary,3
+RTX,3,3,3,5,RTX Corporation,Industrials,3
+SPGI,5,2,3,5,S&P Global,Financials,3
+CRM,4,5,3,3,Salesforce,Information Technology,5
+SBAC,5,1,5,2,SBA Communications,Real Estate,5
+SLB,3,2,3,5,Schlumberger,Energy,3
+STX,1,2,4,2,Seagate Technology,Information Technology,4
+SRE,3,3,5,5,Sempra,Utilities,5
+NOW,1,5,1,1,ServiceNow,Information Technology,2
+SHW,5,2,1,1,Sherwin-Williams,Materials,2
+SPG,1,2,5,5,Simon Property Group,Real Estate,3
+SKYD,5,1,1,2,Skydance,Communication Services,2
+SWKS,5,1,5,2,Skyworks Solutions,Information Technology,5
+SJM,2,3,1,2,J.M. Smucker Company (The),Consumer Staples,2
+SNA,3,2,5,2,Snap-on,Industrials,5
+SO,2,3,1,1,Southern Company,Utilities,2
+LUV,5,1,5,5,Southwest Airlines,Industrials,3
+SWK,5,1,5,5,Stanley Black & Decker,Industrials,5
+SBUX,5,1,3,3,Starbucks,Consumer Discretionary,5
+STT,5,2,5,5,State Street Corporation,Financials,5
+STLD,1,4,5,5,Steel Dynamics,Materials,5
+STE,5,1,4,2,Steris,Health Care,4
+SYK,5,2,3,2,Stryker Corporation,Health Care,5
+SMCI,1,4,3,3,Supermicro,Information Technology,4
+SYF,1,2,5,5,Synchrony Financial,Financials,3
+SNPS,1,5,3,3,Synopsys,Information Technology,5
+SYY,5,3,5,5,Sysco,Consumer Staples,5
+TMUS,3,3,3,3,T-Mobile US,Communication Services,5
+TROW,4,5,5,5,T. Rowe Price,Financials,5
+TTWO,5,1,5,5,Take-Two Interactive,Communication Services,5
+TPR,1,2,4,2,"Tapestry, Inc.",Consumer Discretionary,4
+TRGP,1,4,5,5,Targa Resources,Energy,3
+TGT,5,1,1,3,Target Corporation,Consumer Staples,2
+TEL,5,1,5,5,TE Connectivity,Information Technology,3
+TDY,5,1,5,5,Teledyne Technologies,Information Technology,5
+TER,4,5,5,5,Teradyne,Information Technology,3
+TSLA,4,5,3,3,"Tesla, Inc.",Consumer Discretionary,4
+TXN,5,1,1,1,Texas Instruments,Information Technology,2
+TPL,1,4,4,2,Texas Pacific Land Corporation,Energy,4
+TXT,5,2,5,5,Textron,Industrials,5
+TMO,5,1,1,1,Thermo Fisher Scientific,Health Care,2
+TJX,3,2,3,5,TJX Companies,Consumer Discretionary,3
+TKO,3,2,1,2,TKO Group Holdings,Communication Services,5
+TSCO,3,2,5,5,Tractor Supply,Consumer Discretionary,5
+TT,1,2,3,5,Trane Technologies,Industrials,5
+TDG,1,2,4,2,TransDigm Group,Industrials,4
+TRV,3,3,1,1,Travelers Companies (The),Financials,2
+TRMB,4,5,5,5,Trimble Inc.,Information Technology,3
+TFC,5,1,1,1,Truist Financial,Financials,2
+TWLO,4,5,5,2,Twilio,Information Technology,5
+TYL,5,2,1,1,Tyler Technologies,Information Technology,2
+TSN,2,3,5,5,Tyson Foods,Consumer Staples,3
+USB,5,1,3,2,U.S. Bancorp,Financials,5
+UBER,4,5,3,3,Uber,Industrials,4
+UDR,5,1,5,5,"UDR, Inc.",Real Estate,3
+ULTA,5,2,3,5,Ulta Beauty,Consumer Discretionary,5
+UNP,5,1,3,3,Union Pacific Corporation,Industrials,5
+UAL,1,2,3,5,United Airlines Holdings,Industrials,3
+UPS,5,1,3,5,United Parcel Service,Industrials,3
+URI,1,4,3,5,United Rentals,Industrials,5
+UNH,2,3,3,3,UnitedHealth Group,Health Care,4
+UHS,5,2,5,5,Universal Health Services,Health Care,3
+VLO,3,2,3,5,Valero Energy,Energy,3
+VEEV,4,1,4,2,Veeva Systems,Health Care,4
+VTR,5,3,5,5,Ventas,Real Estate,5
+VRSN,5,1,5,5,Verisign,Information Technology,3
+VRSK,5,1,5,5,Verisk Analytics,Industrials,3
+VZ,2,3,3,3,Verizon,Communication Services,3
+VRTX,3,3,3,3,Vertex Pharmaceuticals,Health Care,5
+VRT,1,4,3,1,Vertiv,Industrials,2
+VTRS,5,1,5,5,Viatris,Health Care,5
+VICI,5,3,5,2,Vici Properties,Real Estate,5
+V,5,2,3,3,Visa Inc.,Financials,3
+VST,1,4,1,1,Vistra Corp.,Utilities,2
+VMRK,5,3,5,5,Vivmark Residential,Real Estate,3
+VMC,5,2,5,2,Vulcan Materials Company,Materials,5
+WRB,3,3,5,5,W. R. Berkley Corporation,Financials,3
+GWW,3,2,5,5,W. W. Grainger,Industrials,5
+WAB,1,2,4,2,Wabtec,Industrials,4
+WMT,3,3,3,3,Walmart,Consumer Staples,5
+DIS,5,1,3,3,Walt Disney Company (The),Communication Services,5
+WM,3,3,5,2,Waste Management,Industrials,5
+WAT,5,2,5,5,Waters Corporation,Health Care,5
+WEC,2,3,2,4,WEC Energy Group,Utilities,1
+WFC,1,2,3,3,Wells Fargo,Financials,5
+WELL,3,2,5,5,Welltower,Real Estate,5
+WST,5,1,4,2,West Pharmaceutical Services,Health Care,4
+WDC,4,5,4,2,Western Digital,Information Technology,4
+WY,5,1,5,5,Weyerhaeuser,Real Estate,5
+WSM,1,4,5,2,"Williams-Sonoma, Inc.",Consumer Discretionary,5
+WMB,3,2,3,5,Williams Companies,Energy,3
+WTW,3,3,5,5,Willis Towers Watson,Financials,3
+WDAY,4,5,3,3,"Workday, Inc.",Information Technology,4
+WYNN,5,1,1,1,Wynn Resorts,Consumer Discretionary,2
+XEL,2,3,4,2,Xcel Energy,Utilities,4
+XYL,5,1,1,1,Xylem Inc.,Industrials,2
+YUM,5,3,1,1,Yum! Brands,Consumer Discretionary,2
+ZBRA,4,5,5,2,Zebra Technologies,Information Technology,5
+ZBH,5,1,5,5,Zimmer Biomet,Health Care,3
+ZTS,5,1,3,2,Zoetis,Health Care,5
